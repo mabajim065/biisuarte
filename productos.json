@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Collar Luna Florada",
+        "price": "25.00€",
+        "image": "images/collar-luna-florada.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pendientes Corazón Pastel",
+        "price": "18.50€",
+        "image": "images/pendientes-corazon-pastel.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pulsera Hilo Mágico",
+        "price": "15.00€",
+        "image": "images/pulsera-hilo-magico.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Anillo Ajustable Flor",
+        "price": "20.00€",
+        "image": "images/anillo-flor.jpg"
+    }
+]
